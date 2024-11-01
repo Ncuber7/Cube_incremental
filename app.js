@@ -1,7 +1,1 @@
-<input type="button" value="button" onclick="buttonClick()">
-
-<script>
-function buttonClick(){
-    alert('Click');
-}
-</script>
+console.log("app.jsが正常にロードされました！");
